@@ -6,7 +6,7 @@ print()
 
 sports1 = input("I enjoy doing physical activities.")
 
-outdoor1 = input("I am physically strong")
+outdoor1 = input("I LOVE THE FRESH AIR")
 
 music1 = input("I can see colours in my mind when i hear music.")
 
