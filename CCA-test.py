@@ -8,7 +8,7 @@ sports1 = input("I enjoy doing physical activities.")
 
 outdoor1 = input("I am physically strong")
 
-music1 = input("I can see colours in my mind when i hear music.")
+music1 = input("I can see colours in my mind when I hear music.")
 
 sports2 = input("I like to sweat")
 
