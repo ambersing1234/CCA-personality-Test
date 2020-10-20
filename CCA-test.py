@@ -6,7 +6,7 @@ print()
 
 sports1 = input("I enjoy doing physical activities.")
 
-outdoor1 = input("I am pysically strong")
+outdoor1 = input("I am physically strong")
 
 music1 = input("I can see colours in my mind when i hear music.")
 
@@ -14,7 +14,7 @@ sports2 = input("I like to sweat")
 
 outdoor2 = input("I like the sun!!!")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I know how to play a musical instrument well.")
 
 
 sports_final = int(sports1) + int(sports2)
